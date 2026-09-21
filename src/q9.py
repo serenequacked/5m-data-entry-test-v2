@@ -33,4 +33,6 @@ Step 6 (short answer). You run `git status` and it says
 and which command moves a file from there into the next commit?
 
     Answer:
+
+    git add <filename> moves a file from "Changes not staged for commit" into the next commit
 """
